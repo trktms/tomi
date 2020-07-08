@@ -1,2 +1,0 @@
-# tomi teszt repo
-teszt
